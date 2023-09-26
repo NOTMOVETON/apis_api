@@ -7,7 +7,7 @@ The developed library is suitable for any drones, regardless of design, using MA
 https://youtu.be/OqBeNJev5wg 
 
 - real flight 
-https://youtu.be/HdeoW-wje-s
+https://youtu.be/zXXJJ_Kunyk
 
 ---
 
