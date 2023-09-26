@@ -10,5 +10,10 @@ https://youtu.be/OqBeNJev5wg
 https://youtu.be/zXXJJ_Kunyk
 
 ---
-
+'''
+cd catkin_ws/src
+git clone ...
+cd ..
+catkin_make
+'''
 
