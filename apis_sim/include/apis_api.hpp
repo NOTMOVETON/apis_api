@@ -1,3 +1,5 @@
+// TODO: REMAKE INTO CLASS!!!
+
 #include <mavros_msgs/CommandTOL.h>
 #include <mavros_msgs/CommandLong.h>
 #include <mavros_msgs/WaypointPull.h>
